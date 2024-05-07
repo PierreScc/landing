@@ -1,0 +1,16 @@
+.fa-brands {
+color: aquamarine;
+font-size: 30px;
+letter-spacing: 15px;
+}
+
+.footer {
+background-color: rgb(44, 42, 42);
+height: 200px;
+text-align: center;
+padding-top: 80px;
+}
+
+p {
+  color: grey;
+}
